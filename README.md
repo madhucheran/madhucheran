@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madhucheran</h1>
 <h3 align="center">Hold on to your hats, folks! I'm an over-the-moon DevOps and cloud engineer!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhucheran&label=Profile%20views&color=0e75b6&style=flat" alt="madhucheran" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhucheran" alt="madhucheran" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/madhucheranr" target="blank"><img src="https://img.shields.io/twitter/follow/madhucheranr?logo=twitter&style=for-the-badge" alt="madhucheranr" /></a> </p>
 
 - 🌱 I’m currently learning **DevOps**
 
