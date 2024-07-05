@@ -24,25 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/madhucheran" target="blank"><img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--oRJctm5T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/ow81dc1olanqq6kfefxl.gif" alt="madhucheran" height="50" width="50" /></a>
-
-  
-<a href="https://twitter.com/madhucheranr" target="blank"><img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjc0YTJ0ZjJ2M2tiZHFlMjBnenVidXZpeXBlZTM1M3ZwcTV5aTZlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KDGLRKwIMVXV5XLieP/giphy.webp" alt="madhucheranr" height="50" width="50" /></a>
-
-
-<a href="https://linkedin.com/in/madhucheran" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="madhucheran" height="50" width="50" /></a>
-
-
-<a href="https://instagram.com/_madhu_cheran_" target="blank"><img align="center" src="https://i.pinimg.com/originals/16/36/3c/16363c95f647c95b678c2c5a15ea9a0e.gif" alt="_madhu_cheran_" height="50" width="50" /></a>
-
-
-<a href="https://medium.com/@madhucheran.r" target="blank"><img align="center" src="https://www.kikkidu.com/wp-content/uploads/2020/10/BeeHome-Animation.gif" alt="@madhucheran.r" height="50" width="50" /></a>
-
-
-<a href="https://www.leetcode.com/madhucheran" target="blank"><img align="center" src="https://i.pinimg.com/originals/73/e1/54/73e15422011e763ea9b303a7738e71a3.gif" alt="madhucheran" height="50" width="50" /></a>
-
-
-<a href="https://rss.com/podcasts/madhucheran/" target="blank"><img align="center" src="https://cdnl.iconscout.com/lottie/premium/thumb/rss-5684299-4735202.gif" alt="rss.com/podcasts/madhucheran/" height="50" width="50" /></a>
+<a href="https://dev.to/madhucheran" target="blank"><img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--oRJctm5T--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/ow81dc1olanqq6kfefxl.gif" alt="madhucheran" height="50" width="50" /></a> <a href="https://twitter.com/madhucheranr" target="blank"><img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjc0YTJ0ZjJ2M2tiZHFlMjBnenVidXZpeXBlZTM1M3ZwcTV5aTZlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KDGLRKwIMVXV5XLieP/giphy.webp" alt="madhucheranr" height="50" width="50" /></a> <a href="https://linkedin.com/in/madhucheran" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="madhucheran" height="50" width="50" /></a>  <a href="https://instagram.com/_madhu_cheran_" target="blank"><img align="center" src="https://i.pinimg.com/originals/2c/09/4d/2c094d32daf5a9079a09588004319274.gif" alt="_madhu_cheran_" height="50" width="50" /></a> <a href="https://medium.com/@madhucheran.r" target="blank"><img align="center" src="https://www.kikkidu.com/wp-content/uploads/2020/10/BeeHome-Animation.gif" alt="@madhucheran.r" height="50" width="50" /></a> <a href="https://www.leetcode.com/madhucheran" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3550772-2970357.png" alt="madhucheran" height="50" width="50" /></a> <a href="https://rss.com/podcasts/madhucheran/" target="blank"><img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JwY3h6bnhuNXY3OXpienhldDBoYTRjYXQ2cnF6ZW9obHc3aHN0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bOZ7nMX7aZcjbY0qSP/giphy.webp" alt="rss.com/podcasts/madhucheran/" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
