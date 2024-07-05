@@ -45,31 +45,29 @@
     <img src="https://cdn.dribbble.com/users/71107/screenshots/2648189/framerlogoanimation.gif" alt="framer" width="50" height="50"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://cdn.dribbble.com/users/270616/screenshots/4884916/2018-07-28_21_11_02.gif" alt="git" width="40" height="40"/>
   </a>
   <a href="https://grafana.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+    <img src="https://w1.pngwing.com/pngs/950/813/png-transparent-github-logo-grafana-influxdb-dashboard-visualization-web-application-installation-data-plugin.png" alt="grafana" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmllMmlvY2w4dm5oaTR6bHIzemMxdjI4NHY3azJxZXh3czFpNGNsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XAxylRMCdpbEWUAvr8/giphy.webp" alt="html5" width="40" height="40"/>
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
+  
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/><p></p>
+    <img src="https://cdn.dribbble.com/users/1096850/screenshots/3488730/jenkins.gif" alt="jenkins" width="40" height="40"/><p></p>
   </a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+    <img src="https://static-00.iconduck.com/assets.00/kubernetes-icon-512x499-3mjeet3c.png" alt="kubernetes" width="40" height="40"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    <img src="https://media.tenor.com/ko4tpRh2FTcAAAAj/mr-free-super-tux.gif" alt="linux" width="40" height="40"/>
   </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
     <img src="https://media3.giphy.com/avatars/Neogrips/FiQWa3uFqXM0.gif" alt="nginx" width="60" height="60"/>
   </a>
   <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="50" height="40"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-vagrant-226063.png?f=webp" alt="vagrant" width="50" height="40"/>
   </a>
 </p>
 
