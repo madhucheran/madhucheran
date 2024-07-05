@@ -76,7 +76,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=madhucheran&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /><br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhucheran&theme=midnight-purple&hide_border=false" alt="GitHub Streak" /><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhucheran&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" /><br/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhucheran&theme=midnight-purple" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhucheran&theme=nord" alt="Activity Graph" />
   </div>
 
 
