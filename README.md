@@ -30,19 +30,19 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*2-b5UkCIf7iF0eCTc-DFeQ.gif" alt="aws" width="50" height="50"/>
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+    <img src="https://tecadmin.net/tutorial/wp-content/uploads/2017/09/bash-logo.jpg" alt="bash" width="50" height="50"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+    <img src="https://i.pinimg.com/originals/f5/5e/80/f55e8059ea945abfd6804b887dd4a0af.gif" alt="docker" width="50" height="50"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+    <img src="https://cdn.dribbble.com/users/895367/screenshots/4239559/figma.gif" alt="figma" width="50" height="50"/>
   </a>
   <a href="https://www.framer.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>
+    <img src="https://cdn.dribbble.com/users/71107/screenshots/2648189/framerlogoanimation.gif" alt="framer" width="50" height="50"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -84,8 +84,8 @@
 
   <summary><h2> <img align="center" src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/media/37a62d305ca45e21f00f40adc9016b36.gif" width="37"/> Contact Me</h2></summary>
   <p>
-    <i>You can reach out to me via</i>
-    <a href="mailto:[madhucheran.r@gmail.com]">
-      <img align="center" src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/media/37a62d305ca45e21f00f40adc9016b36.gif" width="100"/>
+    <i>You can reach out to me via -->> </i>
+    <a href=mailto:madhucheran.r@gmail.com>
+      <img align="center" src="https://cdn.dribbble.com/users/3497212/screenshots/11476810/media/c18175dc05724f0c933fa8f49b2ff875.gif" width="100" height="70"/>
     </a>
   </p>
