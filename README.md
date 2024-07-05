@@ -86,6 +86,6 @@
   <p>
     <i>You can reach out to me via</i>
     <a href="mailto:[madhucheran.r@gmail.com]">
-      <img align="center" src="https://logowik.com/content/uploads/images/nginx7281.logowik.com.webp" width="100"/>
+      <img align="center" src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/media/37a62d305ca45e21f00f40adc9016b36.gif" width="100"/>
     </a>
   </p>
