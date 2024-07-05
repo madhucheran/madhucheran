@@ -73,10 +73,10 @@
 
   <summary><h2><img align="center" src="https://github.com/[madhucheran]/[madhucheran]/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=madhucheran&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhucheran&theme=tokyonight&hide_border=false" alt="GitHub Streak" /><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhucheran&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" /><br/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhucheran&theme=tokyo-night" alt="Activity Graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=madhucheran&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhucheran&theme=midnight-purple&hide_border=false" alt="GitHub Streak" /><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhucheran&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" /><br/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhucheran&theme=midnight-purple" alt="Activity Graph" />
   </div>
 
 
@@ -87,3 +87,13 @@
       <img align="center" src="https://cdn.dribbble.com/users/3497212/screenshots/11476810/media/c18175dc05724f0c933fa8f49b2ff875.gif" width="100" height="70"/>
     </a>
   </p>
+
+<details>
+  <summary>Click to see a random joke</summary>
+  <div align="center">
+
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
+
+  </div>
+</details>
+
