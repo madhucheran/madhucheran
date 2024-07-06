@@ -71,7 +71,7 @@
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-vagrant-226063.png?f=webp" alt="vagrant" width="50" height="40"/>
   </a>
 </p>
-
+<hr>
   <summary><h2><img align="center" src="https://github.com/[madhucheran]/[madhucheran]/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=madhucheran&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /><br/>
@@ -80,7 +80,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhucheran&theme=nord" alt="Activity Graph" />
   </div>
 <hr>
-<hr>
+
   <summary><h2> <img align="center" src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/media/37a62d305ca45e21f00f40adc9016b36.gif" width="37"/> Contact Me</h2></summary>
   <p>
     <i>You can reach out to me via -->> </i>
