@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madhucheran</h1>
+<hr>
 <h3 align="center">Hold on to your hats, folks! I'm an over-the-moon DevOps and cloud engineer!</h3>
-
+<hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhucheran&label=Profile%20views&color=0e75b6&style=flat" alt="madhucheran" /> </p>
 
 - 🔭 I’m currently working on **Kubernetes**
@@ -11,7 +12,7 @@
 - 💬 Ask me about **AWS, DevOps, Docker, GitHub workflow**
 - 📫 How to reach me **madhucheran.r@gmail.com**
 - ⚡ Fun fact **Money Can Buy Happiness**
-
+<hr>
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -26,7 +27,7 @@
   <a href="https://www.leetcode.com/madhucheran" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3550772-2970357.png" alt="madhucheran" height="50" width="50" /></a>
   <a href="https://rss.com/podcasts/madhucheran/" target="blank"><img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JwY3h6bnhuNXY3OXpienhldDBoYTRjYXQ2cnF6ZW9obHc3aHN0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bOZ7nMX7aZcjbY0qSP/giphy.webp" alt="rss.com/podcasts/madhucheran/" height="50" width="50" /></a>
 </p>
-
+<hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -78,8 +79,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhucheran&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" /><br/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhucheran&theme=nord" alt="Activity Graph" />
   </div>
-
-
+<hr>
+<hr>
   <summary><h2> <img align="center" src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/media/37a62d305ca45e21f00f40adc9016b36.gif" width="37"/> Contact Me</h2></summary>
   <p>
     <i>You can reach out to me via -->> </i>
@@ -87,7 +88,7 @@
       <img align="center" src="https://cdn.dribbble.com/users/3497212/screenshots/11476810/media/c18175dc05724f0c933fa8f49b2ff875.gif" width="100" height="70"/>
     </a>
   </p>
-
+<hr>
 <details>
   <summary>Click to see a random joke</summary>
   <div align="center">
