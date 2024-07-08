@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Madhucheran</h1>
-<hr>
 <h3 align="center">Hold on to your hats, folks! I'm an over-the-moon DevOps and cloud engineer!</h3>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhucheran&label=Profile%20views&color=0e75b6&style=flat" alt="madhucheran" /> </p>
