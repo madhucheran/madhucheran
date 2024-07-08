@@ -13,7 +13,7 @@
 - 📫 How to reach me **madhucheran.r@gmail.com**
 - ⚡ Fun fact **Money Can Buy Happiness**
 <hr>
-### Blogs posts
+Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
