@@ -32,25 +32,25 @@
 <h3 align="left">Languages and Tools:</h3>
 <table>
   <tr>
-    <td align="center"><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:1400/1*2-b5UkCIf7iF0eCTc-DFeQ.gif" alt="aws" width="50" height="50"/><br /><sub><b>AWS</b></sub></a></td>
-    <td align="center"><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://tecadmin.net/tutorial/wp-content/uploads/2017/09/bash-logo.jpg" alt="bash" width="50" height="50"/><br /><sub><b>Bash</b></sub></a></td>
-    <td align="center"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/f5/5e/80/f55e8059ea945abfd6804b887dd4a0af.gif" alt="docker" width="50" height="50"/><br /><sub><b>Docker</b></sub></a></td>
-    <td align="center"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.dribbble.com/users/895367/screenshots/4239559/figma.gif" alt="figma" width="50" height="50"/><br /><sub><b>Figma</b></sub></a></td>
+    <td align="center"><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/general-awscloud-icon-1024x1024-cb3xiouy.png" alt="aws" width="50" height="50"/><br /><sub><b>AWS</b></sub></a></td>
+    <td align="center"><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://a0.anyrgb.com/pngimg/158/690/unix-shell-information-architecture-symbol-font-unix-ls-git-bash-command-terminal-cd.png" alt="bash" width="50" height="50"/><br /><sub><b>Bash</b></sub></a></td>
+    <td align="center"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://asset.brandfetch.io/id5_eOiB6T/idYqSj1uqj.jpeg" alt="docker" width="50" height="50"/><br /><sub><b>Docker</b></sub></a></td>
+    <td align="center"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://i0.wp.com/res.cloudinary.com/ratracegrad/image/upload/v1672179613/Screenshot_2022-12-27_at_5.19.27_PM_h2ncza.png?ssl=1" alt="figma" width="50" height="50"/><br /><sub><b>Figma</b></sub></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://www.framer.com/" target="_blank" rel="noreferrer"><img src="https://cdn.dribbble.com/users/71107/screenshots/2648189/framerlogoanimation.gif" alt="framer" width="50" height="50"/><br /><sub><b>Framer</b></sub></a></td>
-    <td align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.dribbble.com/users/270616/screenshots/4884916/2018-07-28_21_11_02.gif" alt="git" width="40" height="40"/><br /><sub><b>Git</b></sub></a></td>
-    <td align="center"><a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://w1.pngwing.com/pngs/950/813/png-transparent-github-logo-grafana-influxdb-dashboard-visualization-web-application-installation-data-plugin.png" alt="grafana" width="40" height="40"/><br /><sub><b>Grafana</b></sub></a></td>
-    <td align="center"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmllMmlvY2w4dm5oaTR6bHIzemMxdjI4NHY3azJxZXh3czFpNGNsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XAxylRMCdpbEWUAvr8/giphy.webp" alt="html5" width="40" height="40"/><br /><sub><b>HTML5</b></sub></a></td>
+    <td align="center"><a href="https://www.framer.com/" target="_blank" rel="noreferrer"><img src="https://p1.hiclipart.com/preview/188/872/969/macos-app-icons-framer-png-icon.jpg" alt="framer" width="50" height="50"/><br /><sub><b>Framer</b></sub></a></td>
+    <td align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV5MFGcGxvHFf3unQTkMq_FlwZZDE_8EBkWA&s" alt="git" width="40" height="40"/><br /><sub><b>Git</b></sub></a></td>
+    <td align="center"><a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKJjh8ssdoWK0loGcU_B4iKl64EGNwgUEwHA&s" alt="grafana" width="40" height="40"/><br /><sub><b>Grafana</b></sub></a></td>
+    <td align="center"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/html-512.png" alt="html5" width="40" height="40"/><br /><sub><b>HTML5</b></sub></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://cdn.dribbble.com/users/1096850/screenshots/3488730/jenkins.gif" alt="jenkins" width="40" height="40"/><br /><sub><b>Jenkins</b></sub></a></td>
-    <td align="center"><a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/kubernetes-icon-512x499-3mjeet3c.png" alt="kubernetes" width="40" height="40"/><br /><sub><b>Kubernetes</b></sub></a></td>
-    <td align="center"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://media.tenor.com/ko4tpRh2FTcAAAAj/mr-free-super-tux.gif" alt="linux" width="40" height="40"/><br /><sub><b>Linux</b></sub></a></td>
-    <td align="center"><a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://media3.giphy.com/avatars/Neogrips/FiQWa3uFqXM0.gif" alt="nginx" width="60" height="60"/><br /><sub><b>NGINX</b></sub></a></td>
+    <td align="center"><a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://ih1.redbubble.net/image.453956200.1706/st,small,507x507-pad,600x600,f8f8f8.u5.webp" alt="jenkins" width="40" height="40"/><br /><sub><b>Jenkins</b></sub></a></td>
+    <td align="center"><a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1055px-Kubernetes_logo_without_workmark.svg.png" alt="kubernetes" width="40" height="40"/><br /><sub><b>Kubernetes</b></sub></a></td>
+    <td align="center"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/768px-Icons8_flat_linux.svg.png" alt="linux" width="40" height="40"/><br /><sub><b>Linux</b></sub></a></td>
+    <td align="center"><a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-nginx-226030.png?f=webp" alt="nginx" width="60" height="60"/><br /><sub><b>NGINX</b></sub></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-vagrant-226063.png?f=webp" alt="vagrant" width="50" height="40"/><br /><sub><b>Vagrant</b></sub></a></td>
+    <td align="center"><a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/V/vagrant-logo-B214F47636-seeklogo.com.png" alt="vagrant" width="50" height="40"/><br /><sub><b>Vagrant</b></sub></a></td>
   </tr>
 </table>
 <hr>
