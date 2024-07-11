@@ -12,7 +12,8 @@
 - 📫 How to reach me **madhucheran.r@gmail.com**
 - ⚡ Fun fact **Money Can Buy Happiness**
 <hr>
-Blogs posts
+
+### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -27,73 +28,53 @@ Blogs posts
   <a href="https://rss.com/podcasts/madhucheran/" target="blank"><img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JwY3h6bnhuNXY3OXpienhldDBoYTRjYXQ2cnF6ZW9obHc3aHN0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bOZ7nMX7aZcjbY0qSP/giphy.webp" alt="rss.com/podcasts/madhucheran/" height="50" width="50" /></a>
 </p>
 <hr>
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*2-b5UkCIf7iF0eCTc-DFeQ.gif" alt="aws" width="50" height="50"/>
-  </a><br>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://tecadmin.net/tutorial/wp-content/uploads/2017/09/bash-logo.jpg" alt="bash" width="50" height="50"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://i.pinimg.com/originals/f5/5e/80/f55e8059ea945abfd6804b887dd4a0af.gif" alt="docker" width="50" height="50"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.dribbble.com/users/895367/screenshots/4239559/figma.gif" alt="figma" width="50" height="50"/>
-  </a>
-  <a href="https://www.framer.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.dribbble.com/users/71107/screenshots/2648189/framerlogoanimation.gif" alt="framer" width="50" height="50"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.dribbble.com/users/270616/screenshots/4884916/2018-07-28_21_11_02.gif" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://grafana.com" target="_blank" rel="noreferrer">
-    <img src="https://w1.pngwing.com/pngs/950/813/png-transparent-github-logo-grafana-influxdb-dashboard-visualization-web-application-installation-data-plugin.png" alt="grafana" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmllMmlvY2w4dm5oaTR6bHIzemMxdjI4NHY3azJxZXh3czFpNGNsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XAxylRMCdpbEWUAvr8/giphy.webp" alt="html5" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://cdn.dribbble.com/users/1096850/screenshots/3488730/jenkins.gif" alt="jenkins" width="40" height="40"/><p></p>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/kubernetes-icon-512x499-3mjeet3c.png" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://media.tenor.com/ko4tpRh2FTcAAAAj/mr-free-super-tux.gif" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://media3.giphy.com/avatars/Neogrips/FiQWa3uFqXM0.gif" alt="nginx" width="60" height="60"/>
-  </a>
-  <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-vagrant-226063.png?f=webp" alt="vagrant" width="50" height="40"/>
-  </a>
-</p>
-<hr>
-  <summary><h2><img align="center" src="https://github.com/[madhucheran]/[madhucheran]/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=madhucheran&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhucheran&theme=midnight-purple&hide_border=false" alt="GitHub Streak" /><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhucheran&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" /><br/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhucheran&theme=nord" alt="Activity Graph" />
-  </div>
+<table>
+  <tr>
+    <td align="center"><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:1400/1*2-b5UkCIf7iF0eCTc-DFeQ.gif" alt="aws" width="50" height="50"/><br /><sub><b>AWS</b></sub></a></td>
+    <td align="center"><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://tecadmin.net/tutorial/wp-content/uploads/2017/09/bash-logo.jpg" alt="bash" width="50" height="50"/><br /><sub><b>Bash</b></sub></a></td>
+    <td align="center"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/f5/5e/80/f55e8059ea945abfd6804b887dd4a0af.gif" alt="docker" width="50" height="50"/><br /><sub><b>Docker</b></sub></a></td>
+    <td align="center"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.dribbble.com/users/895367/screenshots/4239559/figma.gif" alt="figma" width="50" height="50"/><br /><sub><b>Figma</b></sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.framer.com/" target="_blank" rel="noreferrer"><img src="https://cdn.dribbble.com/users/71107/screenshots/2648189/framerlogoanimation.gif" alt="framer" width="50" height="50"/><br /><sub><b>Framer</b></sub></a></td>
+    <td align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.dribbble.com/users/270616/screenshots/4884916/2018-07-28_21_11_02.gif" alt="git" width="40" height="40"/><br /><sub><b>Git</b></sub></a></td>
+    <td align="center"><a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://w1.pngwing.com/pngs/950/813/png-transparent-github-logo-grafana-influxdb-dashboard-visualization-web-application-installation-data-plugin.png" alt="grafana" width="40" height="40"/><br /><sub><b>Grafana</b></sub></a></td>
+    <td align="center"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmllMmlvY2w4dm5oaTR6bHIzemMxdjI4NHY3azJxZXh3czFpNGNsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XAxylRMCdpbEWUAvr8/giphy.webp" alt="html5" width="40" height="40"/><br /><sub><b>HTML5</b></sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://cdn.dribbble.com/users/1096850/screenshots/3488730/jenkins.gif" alt="jenkins" width="40" height="40"/><br /><sub><b>Jenkins</b></sub></a></td>
+    <td align="center"><a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/kubernetes-icon-512x499-3mjeet3c.png" alt="kubernetes" width="40" height="40"/><br /><sub><b>Kubernetes</b></sub></a></td>
+    <td align="center"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://media.tenor.com/ko4tpRh2FTcAAAAj/mr-free-super-tux.gif" alt="linux" width="40" height="40"/><br /><sub><b>Linux</b></sub></a></td>
+    <td align="center"><a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://media3.giphy.com/avatars/Neogrips/FiQWa3uFqXM0.gif" alt="nginx" width="60" height="60"/><br /><sub><b>NGINX</b></sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-vagrant-226063.png?f=webp" alt="vagrant" width="50" height="40"/><br /><sub><b>Vagrant</b></sub></a></td>
+  </tr>
+</table>
 <hr>
 
-  <summary><h2> <img align="center" src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/media/37a62d305ca45e21f00f40adc9016b36.gif" width="37"/> Contact Me</h2></summary>
-  <p>
-    <i>You can reach out to me via -->> </i>
-    <a href=mailto:madhucheran.r@gmail.com>
-      <img align="center" src="https://cdn.dribbble.com/users/3497212/screenshots/11476810/media/c18175dc05724f0c933fa8f49b2ff875.gif" width="100" height="70"/>
-    </a>
-  </p>
+<summary><h2><img align="center" src="https://github.com/[madhucheran]/[madhucheran]/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madhucheran&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhucheran&theme=midnight-purple&hide_border=false" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhucheran&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" /><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhucheran&theme=nord" alt="Activity Graph" />
+</div>
+<hr>
+
+<summary><h2> <img align="center" src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/media/37a62d305ca45e21f00f40adc9016b36.gif" width="37"/> Contact Me</h2></summary>
+<p>
+  <i>You can reach out to me via -->> </i>
+  <a href="mailto:madhucheran.r@gmail.com">
+    <img align="center" src="https://cdn.dribbble.com/users/3497212/screenshots/11476810/media/c18175dc05724f0c933fa8f49b2ff875.gif" width="100" height="70"/>
+  </a>
+</p>
 <hr>
 <details>
   <summary>Click to see a random joke</summary>
   <div align="center">
-
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
-
+    ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
   </div>
 </details>
-
