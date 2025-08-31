@@ -32,7 +32,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <table>
   <tr>
-    <td align="center"><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/general-awscloud-icon-1024x1024-cb3xiouy.png" alt="aws" width="50" height="50"/><br /><sub><b>AWS</b></sub></a></td>
+    <td align="center"><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo-700x394.png" alt="aws" width="50" height="50"/><br /><sub><b>AWS</b></sub></a></td>
     <td align="center"><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://a0.anyrgb.com/pngimg/158/690/unix-shell-information-architecture-symbol-font-unix-ls-git-bash-command-terminal-cd.png" alt="bash" width="50" height="50"/><br /><sub><b>Bash</b></sub></a></td>
     <td align="center"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://asset.brandfetch.io/id5_eOiB6T/idYqSj1uqj.jpeg" alt="docker" width="50" height="50"/><br /><sub><b>Docker</b></sub></a></td>
     <td align="center"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://i0.wp.com/res.cloudinary.com/ratracegrad/image/upload/v1672179613/Screenshot_2022-12-27_at_5.19.27_PM_h2ncza.png?ssl=1" alt="figma" width="50" height="50"/><br /><sub><b>Figma</b></sub></a></td>
