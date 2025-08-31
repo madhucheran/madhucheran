@@ -50,7 +50,7 @@
     <td align="center"><a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-nginx-226030.png?f=webp" alt="nginx" width="60" height="60"/><br /><sub><b>NGINX</b></sub></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/V/vagrant-logo-B214F47636-seeklogo.com.png" alt="vagrant" width="50" height="40"/><br /><sub><b>Vagrant</b></sub></a></td>
+    <td align="center"><a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"><img src="https://e7.pngegg.com/pngimages/489/753/png-clipart-vagrant-logo-vagrant-logo-icons-logos-emojis-tech-companies.png" alt="vagrant" width="50" height="40"/><br /><sub><b>Vagrant</b></sub></a></td>
   </tr>
 </table>
 <hr>
