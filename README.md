@@ -2,6 +2,8 @@
 
 **AWS Cloud & DevOps | CI/CD | Docker | Infrastructure as Code**
 
+[Portfolio](https://madhucheran.github.io) · [LinkedIn](https://www.linkedin.com/in/madhucheran) · [Email](mailto:madhucheran.r@gmail.com)
+
 I build and automate cloud deployments. Currently strengthening my IaC and zero-downtime deployment skills with Terraform, Jenkins and blue/green releases on AWS.
 
 ## What I'm working on
